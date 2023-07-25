@@ -33,7 +33,8 @@
         <module>bahmni-emr-api</module>
         <module>bahmnicore-api</module>
         <module>openmrs-elis-atomfeed-client-omod</module>
-        <module>bahmnicore-omod</module>
+	<module>bahmni-maka-api</module>
+	<module>bahmnicore-omod</module>
         <module>reference-data</module>
         <module>admin</module>
         <module>vagrant-deploy</module>
