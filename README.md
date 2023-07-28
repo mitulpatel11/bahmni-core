@@ -1,9 +1,10 @@
 # OpenMRS module bahmnicore
-
+asdkfhaksdjhfkjsad
 This module provides necessary services for running Bahmni
 
-## Build
-
+alksfjdlaksjdflaksdjflksadjf
+asdkfalskdjfas
+dlkjasd'lkfjdsa#
 [![BahmniCore-master Actions Status](https://github.com/Bahmni/bahmni-core/workflows/Java%20CI%20with%20Maven/badge.svg)](https://github.com/Bahmni/bahmni-core/actions)
 
 ### Prerequisite
